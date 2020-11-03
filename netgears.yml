@@ -1,0 +1,4 @@
+---
+test:
+  device_type: netgear_prosafe
+  host: 172.16.123.1
